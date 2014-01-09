@@ -9,5 +9,5 @@ mehmet can bozkurt
 ali özdemir
 caner kansız
 
-we used sqlite as db and java 
+we used sqlite as db and java ;
 platform is eclipse(adt)
